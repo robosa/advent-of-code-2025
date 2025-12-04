@@ -41,4 +41,3 @@ Console.WriteLine($"Execution Time: {watch.ElapsedMilliseconds} ms");
 
 Console.WriteLine($"Part 1: {part1}");
 Console.WriteLine($"Part 2: {part2}");
-

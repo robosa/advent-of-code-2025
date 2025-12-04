@@ -21,4 +21,3 @@ Console.WriteLine($"Total Execution Time: {watch.ElapsedMilliseconds} ms");
 
 Console.WriteLine($"Part 1: {password1}");
 Console.WriteLine($"Part 2: {password2}");
-
